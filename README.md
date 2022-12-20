@@ -1,0 +1,2 @@
+# skenelv
+QR kodu mājaslapa
